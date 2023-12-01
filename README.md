@@ -12,10 +12,10 @@ Have a nice day!
 ## About me
 | Rank | THING-TO-RANK |
 |-----:|---------------|
-|     1|  python  |
-|     2|  react    |
-|     3|qt    |
-|     4|mysql|
+|     1|  Python  |
+|     2|  React    |
+|     3|Qt    |
+|     4|Sql|
 
 <!-- TO DO: add more details about me later -->
 
