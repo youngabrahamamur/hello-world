@@ -6,7 +6,7 @@ Please advise.\
 Have a nice day!
 
 <picture>
- <img alt="Color the world！" src="https://github.com/youngabrahamamur/hello-world/blob/main/flags.jpg">
+ <img alt="Color the world！" src="https://github.com/youngabrahamamur/hello-world/blob/main/a40962736.png">
 </picture>
 
 ## About me
